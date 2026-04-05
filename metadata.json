@@ -1,0 +1,5 @@
+{
+  "name": "Connectify",
+  "description": "A real-time chat and video calling application powered by Firebase and WebRTC.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
